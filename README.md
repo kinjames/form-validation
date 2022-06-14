@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-jJUlvPG7-J)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-RhVb_D8HQc)
 - Live Site URL: [Github](https://kinjames.github.io/form-validation/)
 
 ## My process
