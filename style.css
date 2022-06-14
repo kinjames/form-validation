@@ -111,7 +111,7 @@ h1 {
 
 .input small {  
     display: block;  
-    color: #e74c3c;  
+    color: hsl(0, 100%, 74%);  
     font-weight: bold;  
     font-size: 11px;  
     padding-top: 3px;  
@@ -119,11 +119,11 @@ h1 {
 }
 
 .input.success input {  
-    border: 2px solid #2ecc71;  
+    border: 2px solid hsl(154, 59%, 51%);  
 }
 
 .input.error input {  
-    border: 2px solid #e74c3c;
+    border: 2px solid hsl(0, 100%, 74%);
     background-image: url(images/icon-error.svg);
     background-repeat: no-repeat;
     background-position:  calc(95%) center;  
